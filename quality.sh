@@ -1,3 +1,3 @@
-#!/bin/bash
+#!/usr/bin/sh
 
 echo "Quality Test"
